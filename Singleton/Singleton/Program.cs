@@ -21,6 +21,7 @@ namespace Singleton
             BolaSingleton bola4 = BolaSingleton.GetBolaSingleton(); // utiliza a bola em jogo
             BolaSingleton bola5 = BolaSingleton.GetBolaSingleton(); // utiliza a bola em jogo
             BolaSingleton bola6 = BolaSingleton.GetBolaSingleton(); // utiliza a bola em jogo
+            
             Console.Read();
         }
     }
