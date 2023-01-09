@@ -1,0 +1,15 @@
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/bin/Debug/net6.0/Command
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/bin/Debug/net6.0/Command.deps.json
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/bin/Debug/net6.0/Command.runtimeconfig.json
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/bin/Debug/net6.0/Command.dll
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/bin/Debug/net6.0/Command.pdb
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.csproj.AssemblyReference.cache
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.GeneratedMSBuildEditorConfig.editorconfig
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.AssemblyInfoInputs.cache
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.AssemblyInfo.cs
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.csproj.CoreCompileInputs.cache
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.dll
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/refint/Command.dll
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.pdb
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/Command.genruntimeconfig.cache
+/home/reginaldo/Desenvolvimento/Design-Patterns/Comportamental/Command/obj/Debug/net6.0/ref/Command.dll
